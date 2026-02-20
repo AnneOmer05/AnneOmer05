@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Anne Omer  
 
-🎓 Computer Engineering Student | 💻 Developer & Maker  
+🎓 Computer Engineering Student 
 🌟 Passionate about **C++**, **Web Development**, and **Embedded Systems**  
 🚀 Exploring **AI/ML**, **Full-Stack Development**
 
