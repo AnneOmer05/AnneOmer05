@@ -6,11 +6,11 @@
 
 <!-- Profile Header -->
 
-# 👋 Hi, I'm Anne Omer  
+#  Spawn point: Anne's GitHub ♡
 
 🎓 Computer Engineering Student 
 🌟 Passionate about **C++**, **Web Development**, and **Embedded Systems**  
-🚀 Exploring **AI/ML**, **Full-Stack Development**
+✨ Exploring **AI/ML**, **Full-Stack Development**
 
 ---
 
@@ -18,16 +18,29 @@
 
 
 ## 🔧 Skills & Tools 
-**Languages, Frameworks and Tools:**  
-![C++](https://img.shields.io/badge/C%2B%2B-9cf?logo=c%2B%2B&logoColor=white&style=for-the-badge) 
-![HTML5](https://img.shields.io/badge/HTML5-ffb3ba?logo=html5&logoColor=white&style=for-the-badge) 
-![CSS3](https://img.shields.io/badge/CSS3-baffc9?logo=css3&logoColor=white&style=for-the-badge) 
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffba?logo=javascript&logoColor=black&style=for-the-badge) 
-![React](https://img.shields.io/badge/React-aec6cf?logo=react&logoColor=61DAFB&style=for-the-badge) 
-![C#](https://img.shields.io/badge/C%23-fdbcb4?logo=csharp&logoColor=white&style=for-the-badge) 
-![Assembly](https://img.shields.io/badge/Assembly-ffdac1?logo=protocols-dot-io&logoColor=black&style=for-the-badge)  
-![Git](https://img.shields.io/badge/Git-ffdfba?logo=git&logoColor=white&style=for-the-badge)  
+**Languages, Frameworks and Tools:**  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white&style=for-the-badge)
+
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assemblyscript&logoColor=white&style=for-the-badge)
+
+![Verilog](https://img.shields.io/badge/Verilog-1A1A1A?logo=verilog&logoColor=white&style=for-the-badge)
+
+![VHDL](https://img.shields.io/badge/VHDL-543978?logo=vhdl&logoColor=white&style=for-the-badge)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 
 ---
