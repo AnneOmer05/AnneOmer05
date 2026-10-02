@@ -18,8 +18,8 @@
 
 
 ## 🔧 Skills & Tools 
-**Languages, Frameworks and Tools:**  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-
+**Languages, Frameworks and Tools:** 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white&style=for-the-badge)
 
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assemblyscript&logoColor=white&style=for-the-badge)
